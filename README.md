@@ -1,4 +1,4 @@
-# Taks
+# Task
 React Native Tasks App
 
 
